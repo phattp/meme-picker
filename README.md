@@ -56,7 +56,7 @@ Clone the repository and open `index.html` in your browser:
 
 ```bash
 git clone https://github.com/phattp/meme-picker.git
-cd cat-meme-picker
+cd meme-picker
 ```
 
 ## What I learned
